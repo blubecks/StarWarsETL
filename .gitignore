@@ -1,0 +1,33 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Dependency directories
+env/
+venv/
+env3/
+.venv/
+dist/
+build/
+lib/
+lib64/
+include/
+pycache/
+.pytest_cache/
+
+# Distribution / packaging
+*.egg-info/
+*.egg
+*.tar.gz
+*.whl
+
+# IDE specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
